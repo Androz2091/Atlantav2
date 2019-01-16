@@ -1,0 +1,15 @@
+{
+    "token":"",
+    "prefix":"*",
+    "owner_id":"",
+    "support":{
+        "id":"",
+        "srvlogs":"",
+        "invitelogs":"",
+        "general":""
+    },
+    "premium_color":"#FFD700",
+    "embed_color":"#990033",
+    "footer":"Atlanta | $invite",
+    "bot":"Atlanta"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "atlanta-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "atlantav2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dblapi.js": "^2.3.0",
+    "discord.js": "^11.5.1"
+  }
+}
